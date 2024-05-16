@@ -1,4 +1,4 @@
-<font face="Courier New" size="8"> Hi there 🦄
+## Hi there 🦄
 
 ![pinkbackgroundwithname](images/Pink-Bold-Retro-Aestheti.png)
 
