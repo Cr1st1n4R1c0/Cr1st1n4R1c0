@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![pinkbackgroundwithname](images/Pink-Bold-Retro-Aestheti.png)
+
 I'm currently working on:
 
 - Building my first web page using HTML!
