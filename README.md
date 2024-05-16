@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🦄
 
 ![pinkbackgroundwithname](images/Pink-Bold-Retro-Aestheti.png)
 
