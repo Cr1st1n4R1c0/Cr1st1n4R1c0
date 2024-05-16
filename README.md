@@ -1,5 +1,4 @@
 ### Hi there 👋
-# Hi there! 👋
 
 I'm currently working on:
 
@@ -10,28 +9,18 @@ I’m currently learning:
 - The basics of HTML structure and tags.
 - How to create well-organized and visually appealing web pages.
 
-I’m looking to collaborate on:
-
-- Simple HTML projects with fellow coders (especially logistics enthusiasts!).
-- Exploring ways to use HTML for creating internal logistics dashboards or reports.
-
-I’m looking for help with:
-
-- Understanding advanced HTML concepts like forms and tables.
-- Tips on best practices for writing clean and efficient HTML code.
-
 Ask me about:
 
 - The logistics industry and its challenges.
-- How I see HTML potentially being used in logistics operations.
+- How I see what I'm learning potentially being used in my logistics operations.
 
 How to reach me:
 
-- [Replace this with your preferred contact information, like email or social media]
+- cristina.rico.rios@gmail.com
 
 Pronouns:
 
-- [Indicate your pronouns here, e.g., he/him, she/her, they/them]
+- She/her
 
 ⚡ Fun fact:
 
